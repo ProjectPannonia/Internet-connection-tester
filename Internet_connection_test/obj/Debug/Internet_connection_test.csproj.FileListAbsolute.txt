@@ -1,0 +1,8 @@
+C:\Users\leten\source\repos\Internet_connection_test\Internet_connection_test\bin\Debug\Internet_connection_test.exe.config
+C:\Users\leten\source\repos\Internet_connection_test\Internet_connection_test\bin\Debug\Internet_connection_test.exe
+C:\Users\leten\source\repos\Internet_connection_test\Internet_connection_test\bin\Debug\Internet_connection_test.pdb
+C:\Users\leten\source\repos\Internet_connection_test\Internet_connection_test\obj\Debug\Internet_connection_test.csproj.AssemblyReference.cache
+C:\Users\leten\source\repos\Internet_connection_test\Internet_connection_test\obj\Debug\Internet_connection_test.csproj.SuggestedBindingRedirects.cache
+C:\Users\leten\source\repos\Internet_connection_test\Internet_connection_test\obj\Debug\Internet_connection_test.csproj.CoreCompileInputs.cache
+C:\Users\leten\source\repos\Internet_connection_test\Internet_connection_test\obj\Debug\Internet_connection_test.exe
+C:\Users\leten\source\repos\Internet_connection_test\Internet_connection_test\obj\Debug\Internet_connection_test.pdb
